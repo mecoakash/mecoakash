@@ -5,11 +5,11 @@
 
 - 🌱 I’m having knowledge of **Python, SQL, R, Microsoft Excel, Tableau, PowerBI**
 
+- 💬 Libraries and Frameworks **NumPy, Pandas, Matplotlib, Tensorflow, Tensorflow 2**
+
 - 👨‍💻 All of my projects are available at [Akash's Portfolio](https://akashmech.wixsite.com/portfolio)
 
 - 📝 I regularly write articles on [Akash's Blog](https://akashmech.wixsite.com/portfolio/blog)
-
-- 💬 Libraries and Frameworks **NumPy, Pandas, Matplotlib, Tensorflow, Tensorflow 2**
 
 - 📫 How to reach me **akashmech1080@gmail.com**
 
